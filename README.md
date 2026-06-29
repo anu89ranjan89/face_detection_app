@@ -1,5 +1,8 @@
 # 😀 Face Detection App
 
+## Demo
+https://facedetectionapp-ughjbu4k78kpbniezyj75t.streamlit.app/
+
 ## Overview
 
 This project detects human faces in uploaded images using OpenCV's Haar Cascade Classifier.
